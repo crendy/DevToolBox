@@ -1835,7 +1835,7 @@ public class MainAction {
     }
 
     private final String updateURL = "http://www.vbox.top/app/version.php";
-    public static final String AD_URL = "http://www.vbox.top/ad.php?type=text";
+    public static final String AD_URL = "";
     private static final Logger LOGGER = LoggerFactory.getLogger(MainAction.class);
     static DirectoryChooser dirChooser = new DirectoryChooser();
     static FileChooser fileChooser = new FileChooser();
